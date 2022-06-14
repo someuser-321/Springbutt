@@ -46,10 +46,10 @@ CREATE TABLE settings
 INSERT INTO APPLICATION_USER (username, password, email, first_name, last_name, phone_number)
 VALUES
   ('admin', '$2a$10$RyICQ69.sgW0JCsdSvwmu.iYuZ2vNyr5X7UpQjhayj.6WRL2KqnMO',
-   'admin@sprinboard.com', 'super', 'admin', '9425094250');
+   'admin@springbutt.com', 'super', 'admin', '9425094250');
 INSERT INTO APPLICATION_USER (username, password, email, first_name, last_name, phone_number)
 VALUES ('user', '$2a$10$RyICQ69.sgW0JCsdSvwmu.iYuZ2vNyr5X7UpQjhayj.6WRL2KqnMO',
-        'user@springboard.com', 'normal', 'user', '9425094251');
+        'user@springbutt.com', 'normal', 'user', '9425094251');
 
 --ROLES
 INSERT INTO ROLE (name)
@@ -66,7 +66,7 @@ VALUES (2, 2);
 --SETTINGS
 --About
 INSERT INTO SETTINGS (setting_key, setting_value)
-VALUES ('about', 'Springboard IS a Spring Boot starter - kit');
+VALUES ('about', 'Springbutt IS a Spring Butt starter - kit');
 
 --Terms
 INSERT INTO SETTINGS (setting_key, setting_value)

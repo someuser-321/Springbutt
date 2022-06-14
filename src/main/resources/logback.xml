@@ -27,7 +27,7 @@
         <appender-ref ref="STDOUT"/>
     </root>
 
-    <logger name="com.systango.springboard" additivity="false" level="debug">
+    <logger name="com.systango.springbutt" additivity="false" level="debug">
         <appender-ref ref="STDOUT"/>
         <appender-ref ref="SAVE-TO-FILE"/>
     </logger>

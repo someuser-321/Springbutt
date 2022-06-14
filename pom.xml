@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.systango</groupId>
-    <artifactId>springboard</artifactId>
+    <artifactId>springbutt</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>springboard</name>
+    <name>springbutt</name>
     <description>API boilerplate project for Spring Boot</description>
 
     <parent>
